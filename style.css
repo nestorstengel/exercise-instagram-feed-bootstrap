@@ -1,0 +1,42 @@
+.navbar-header img{
+	width: 150px;
+	margin-top: -30px;
+}
+
+.col-md-4 img:hover{
+	
+}
+
+.glyphicon-cog{
+	font-size: 20px;
+	margin-top: 30px;
+	
+}
+
+.glyphicon-camera{
+	margin: 10px 10px;
+	font-size: 20px;
+}
+
+.glyphicon-map-marker{
+	font-size: 20px;
+}
+
+.btn{
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+.thumbnail{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.glyphicon-th{
+	color: black;
+}
+
+.glyphicon-stop{
+	color:black;
+}
